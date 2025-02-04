@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "nodemon": "^3.1.9",
+    "main": "delete.js"
+
+  },
+  "scripts": {
+    "start": "nodemon --exec 'clear && node' ./delete.js -q"
+  }
+}
