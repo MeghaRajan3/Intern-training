@@ -5,6 +5,6 @@ if(isNaN(num))
 console.log(num**2)
 }
 catch(error){
-    console.log("priya")
+
     console.log(error)
 }
